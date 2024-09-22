@@ -16,5 +16,9 @@ public class App
 
         System.out.println("Hotfixed");
 
+        System.out.println("hello");
+
+        System.out.println("hi");
+
     }
 }
